@@ -2,7 +2,7 @@ class Testpp < Formula
   desc "Modern C++ unit testing framework"
   homepage "https://github.com/olie-ver/TestPlusPlus"
   url "https://github.com/olie-ver/TestPlusPlus/archive/refs/tags/v20.3.2.tar.gz"
-  sha256 "76da92cf3ef720c8202a3d593cf4a6d969b31d2b17d54cb474fb96feebbe2f94"
+  sha256 "bc4684b347fdcb47c14d0c7dc0465356412d4ee3319305be04a528fdc25f113e"
   license "MIT"
 
   depends_on "cmake" => :build
